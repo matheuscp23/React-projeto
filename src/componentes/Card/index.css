@@ -1,0 +1,36 @@
+.card {
+  width: 200px;
+  border-radius: 4px;
+}
+.card .cabecalho {
+  border-radius: 4px 4px 0 0;
+  box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.2);
+}
+.card img {
+  border: 1px solid lightgray;
+  position: relative;
+  width: 100px;
+  border-radius: 50%;
+  top: 50px;
+}
+.card .footer {
+  height: 170px;
+  background-color: white;
+  padding-top: 50px;
+  padding-bottom: 10px;
+  border-radius: 0 0 4px 4px;
+  box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.2);
+}
+.footer h4 {
+  color: #6278f7;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+.footer h5 {
+  font-size: 16px;
+  line-height: 22px;
+  color: #212121;
+  padding: 0 16px;
+}

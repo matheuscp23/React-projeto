@@ -1,0 +1,26 @@
+.rodape{
+    padding: 40px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #6278f7;
+    background-image: url('../../assets/fundo.png');
+    margin-bottom: -30px;
+}
+.redes{
+    display: flex;
+    gap: 30px;
+}
+.rodape .redes img{
+    cursor: pointer;
+    width: 20px;
+}
+.rodape .desenvolvedor a,h6{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+}
+.rodape .desenvolvedor a:hover{
+    color: lightblue;
+}

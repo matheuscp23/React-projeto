@@ -1,0 +1,19 @@
+.form-group{
+    margin: 24px 0;
+}
+.form-group label{
+    display: block;
+    margin-bottom: 8px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.form-group input{
+    border-radius: 5px;
+    background: #fff;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.05);
+    width: 100%;
+    border: none;
+    font-size: 16px;
+    padding: 24px;
+    box-sizing: border-box;
+}
