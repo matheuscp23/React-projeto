@@ -17,7 +17,7 @@ function Rodape() {
         </div>
         <div className='desenvolvedor'>
             <h6>
-                Desenvolvido por <a href="https://github.com/matheuscp23">Matheus Campos Penteado.</a>
+                Desenvolvido por <a href="https://github.com/matheuscp23?tab=repositories">Matheus Campos Penteado.</a>
             </h6>
         </div>
     </div>
